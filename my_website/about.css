@@ -1,0 +1,29 @@
+body {
+    font-family: "Comic Sans MS", fantasy;
+    color: #800000;
+    background-color: #d6d6c2;
+}
+h1 {
+    font-size: 1.3em;
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    border-collapse: collapse;
+}
+tr {
+    border: 1px solid #ffffff;
+    text-align: center;
+    background-color: #b2b2b2;
+}
+th {
+    text-align: center;
+    color: #ffffff;
+    background-color: #800000;
+}
+
