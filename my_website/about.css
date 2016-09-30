@@ -1,7 +1,6 @@
 body {
     font-family: "Comic Sans MS", fantasy;
-    color: #800000;
-    background-color: #d6d6c2;
+    color: blue;
 }
 h1 {
     font-size: 1.3em;
@@ -19,11 +18,31 @@ table {
 tr {
     border: 1px solid #ffffff;
     text-align: center;
-    background-color: #b2b2b2;
+    background-color: #59FFA0;
 }
 th {
     text-align: center;
-    color: #ffffff;
-    background-color: #800000;
+    color: blue;
+    background-color: #59FFA0;
 }
-
+#nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #59FFA0;
+}
+li.bar {
+    float: left;
+}
+li a {
+    display: block;
+    color: blue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+p.why {
+    color: blue;
+    text-align: center;
+}
