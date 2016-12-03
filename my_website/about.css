@@ -31,8 +31,9 @@ th {
     padding: 0;
     overflow: hidden;
     background-color: #59FFA0;
+    float: left;
 }
-li.bar {
+.bar {
     float: left;
 }
 li a {
@@ -42,7 +43,7 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 }
-p.why {
+.why {
     color: blue;
     text-align: center;
 }
